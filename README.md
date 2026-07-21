@@ -1,7 +1,3 @@
-# Virtual-Health-Assistant
-An AI-powered healthcare platform for symptom analysis, appointment scheduling, medication reminders, and health record management.
-
-
 # 🩺 Virtual Health Assistant
 
 > **An AI-powered healthcare platform that helps users monitor their health, analyze symptoms, and make informed healthcare decisions through an intuitive and modern web application.**
